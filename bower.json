@@ -1,0 +1,11 @@
+{
+  "name": "AceBuilds",
+  "version": "0.0.0",
+  "homepage": "",
+  "moduleType": [
+    "globals"
+  ],
+  "main": [
+    "src-min-noconflict/ace.js"
+  ]
+}
