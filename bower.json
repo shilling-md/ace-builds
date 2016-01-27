@@ -2,10 +2,19 @@
   "name": "AceBuilds",
   "version": "0.0.0",
   "homepage": "",
+  "authors": [
+    "AceBuilds"
+  ],
+  "description": "Crypto",
   "moduleType": [
     "globals"
   ],
-  "main": [
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {},
+    "main": [
     "src-min-noconflict/ace.js"
   ]
 }
+
